@@ -1,0 +1,16 @@
+# Python specific
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+$py.class
+
+# Jupyter Notebook specific
+.ipynb_checkpoints
+
+# macOS specific
+.DS_Store
+
+# PyCharm specific
+.idea/
+
